@@ -7,5 +7,5 @@
  (tags           "testing")
 
  (libraries
-  (test
+  ((cyclone test)
    (description "test-repo main library definition"))))
